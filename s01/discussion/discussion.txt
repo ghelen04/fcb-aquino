@@ -6,3 +6,5 @@ Topics in FCB:
 -Git
 -HTML
 -CSS
+
+The date today is February 18, 2025.
